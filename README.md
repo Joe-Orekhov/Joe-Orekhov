@@ -1,16 +1,24 @@
-### Hi there 👋
+![calvin-and-hobbes-tree-1581712659168_160w](https://user-images.githubusercontent.com/79868098/142699420-6be7e195-888b-495f-a850-bbcdf7a1c72f.jpeg)
+Completed FlatIrons Boot Camp, now seeking a Master-Apprentice relationship where both pastries can benefit from investing into a humble and quick learner.
 
-<!--
-**Joe-Orekhov/Joe-Orekhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲
 
-Here are some ideas to get you started:
+➡️ ⚙️ 🟢 **REPOS**🟢 ⚙️ ⬅️ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most recent:👾 My_Widdles 👾
+- Back End: **Ruby on Rails**
+- Front End: **React**
+- New Tech: **WebSockets**
+
+🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲
+
+🌸 🌱 **Where Im Planning to Grow** 🌱 🌸
+
+- Wanna get some 📱**React Rative**📱 going!
+- Cloudanary
+- Gain a deepr understanding on 
+
+
+
+- 📫 💬 How to reach me💬 📫
+- ⚡ Fun fact: .
