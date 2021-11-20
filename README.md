@@ -16,9 +16,10 @@ Most recent:👾 My_Widdles 👾
 
 - Wanna get some 📱**React Rative**📱 going!
 - Cloudanary
-- Gain a deepr understanding
+- Become the 🌎  **BEST** 🌍 algorithm writer lol.
 
-
-
+🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳 🔲 🔳
 - 📫 💬 How to reach me💬 📫
-- ⚡ Fun fact: .
+GitHub: https://github.com/Joe-Orekhov
+LinkedIn: www.linkedin.com/in/joseph-orekhov
+
